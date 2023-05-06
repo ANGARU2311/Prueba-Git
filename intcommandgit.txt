@@ -10,4 +10,13 @@
  git config --global -e
 
  Se ha realizado las configuraciones basicas del git para este segmento
- 
+
+// {Ya hemos inicializado el repositorio de Git} //
+
+Comandos básicos
+
+git init: crear un repositorio.
+git add: agregar un archivo a staging.
+git commit -m “mensaje”: guardar el archivo en git con un mensaje.
+git branch: crear una nueva rama.
+git checkout: moverse entre ramas.
